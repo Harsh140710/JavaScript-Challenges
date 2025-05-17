@@ -4,7 +4,11 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 1. Create a Bulb and toggle them
 
 -> I have created Bulb and write the javascript code for change it's color and toggle dark mode to light mode 
+
+
 -> Also chnage it's status accroding bulb light on or off.
+
+
 
 -> Output Before bulb on :
 
@@ -20,7 +24,11 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 2. Create a color changing button :
 
 -> I have created Function for changing the text color 
+
+
 -> Passed parameter in function for Change text color and call them into a HTML file in buttons "onClick" Function
+
+
 
 -> Output :
 
@@ -30,8 +38,13 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 
 3. Portfolio form information below to see it displayed in real-time :
 
+
 -> I have used "keyUp" event for show this output 
+
+
 -> When user write something it will display in the below box at real-time
+
+
 
 -> Output :
 
@@ -42,9 +55,16 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 4. Task List :
 
 -> It is working task-list for add Some-task 
+
+
 -> It will Count total task and display them 
+
+
 -> It it also Count completed tasks when user checked Chekbox when task will complete
+
+
 -> User can also delete the entered or completed task it is also counting 
+
 
 -> Output :
 
@@ -55,8 +75,14 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 5. Image Carousel :
 
 -> It is working with left or right arrow and also working on auto changing slider button 
+
+
 -> It will auto Change after every 5 seconds after user clicked on auto Changing button 
+
+
 -> Wihout this button you can also change the slide manually left or right side
+
+
 
 -> Output :
 
