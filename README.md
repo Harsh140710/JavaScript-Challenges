@@ -7,9 +7,13 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 -> Also chnage it's status accroding bulb light on or off.
 
 -> Output Before bulb on :
+
+
 ![Screenshot 2025-05-17 113838](https://github.com/user-attachments/assets/ce8fb484-241a-4aaf-8139-5789e70adedf)
 
 -> Output After bulb on :
+
+
 ![Screenshot 2025-05-17 113856](https://github.com/user-attachments/assets/ce208151-94fc-44e6-a359-fc06f2728113)
 
 
@@ -19,6 +23,8 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 -> Passed parameter in function for Change text color and call them into a HTML file in buttons "onClick" Function
 
 -> Output :
+
+
 ![Screenshot 2025-05-17 114504](https://github.com/user-attachments/assets/2e6fa3ca-e6c4-49a8-96fc-c699d1ccf647)
 
 
@@ -28,6 +34,8 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 -> When user write something it will display in the below box at real-time
 
 -> Output :
+
+
 ![Screenshot 2025-05-17 114702](https://github.com/user-attachments/assets/c9b6fa92-7f36-4bb2-94f8-11642e67e6ba)
 
 
@@ -39,6 +47,8 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 -> User can also delete the entered or completed task it is also counting 
 
 -> Output :
+
+
 ![Screenshot 2025-05-17 115130](https://github.com/user-attachments/assets/24986280-e41a-4656-8e37-c71a87d69619)
 
 
@@ -49,5 +59,7 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 -> Wihout this button you can also change the slide manually left or right side
 
 -> Output :
+
+
 
 ![Screenshot 2025-05-17 115504](https://github.com/user-attachments/assets/64b25fd8-556e-4b50-ae98-bc3fc00e9487)
