@@ -89,3 +89,72 @@ JavaScript Challenges solve quetions to build logic, This code is very easy to u
 
 
 ![Screenshot 2025-05-17 115504](https://github.com/user-attachments/assets/64b25fd8-556e-4b50-ae98-bc3fc00e9487)
+
+
+
+6. Analog and Diaognal Clock :
+
+
+-> I have creeted Analog and Diognal Clock
+
+
+-> It is very simple to understand And also written with Comments for better understandig.
+
+
+
+-> Output : 
+
+
+![Screenshot 2025-05-21 123900](https://github.com/user-attachments/assets/d730524b-14d2-4c34-a6df-65707d1eb71a)
+
+
+
+7. Slick Accordion
+
+
+-> Slick Accordion using javaScript 
+
+
+-> It is very Important to Check the css for this Because of the some Changes in that.
+
+-> please Check it and than run the Program.
+
+
+
+-> Output :
+
+
+![Screenshot 2025-05-21 123944](https://github.com/user-attachments/assets/7ece32ea-7b6a-4d41-a44c-188ac3d572d9)
+
+
+
+8. Shopping Cart :
+
+
+-> It is very simple and understandable Shopping Cart created using JavaScript.
+
+-> You can add the product in the cart and also inrease and decrease it's quantity and check the total ammount of shopping cart at a one place.
+
+
+-> output :
+
+
+![Screenshot 2025-05-21 124027](https://github.com/user-attachments/assets/b021b0e9-e602-4971-99b3-2cfd061a3640)
+
+
+
+
+9. Navigation bar :
+
+
+-> Created Navigation bar toggle button.
+
+
+-> When the user click on any navigation list it is drop the alert message on the window and also show the current place of user.
+
+
+-> Output :
+
+
+![Screenshot 2025-05-21 124056](https://github.com/user-attachments/assets/94db53ef-0258-4131-a8aa-eaa5cac4f0cc)
+
